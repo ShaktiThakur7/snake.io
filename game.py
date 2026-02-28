@@ -9,7 +9,7 @@ height = 400
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Snake Game")
 
-# Colors
+# Colorsss
 white = (255,255,255)
 green = (0,255,0)
 red = (255,0,0)
